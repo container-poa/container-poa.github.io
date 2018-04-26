@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bem-vindo ao grupo de discussão sobre Containers de Porto Alegre, RS, Brasil!
 
-### More Information
+### Mais informações
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
